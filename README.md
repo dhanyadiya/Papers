@@ -25,7 +25,7 @@ Dependencies:
 
 1. Clone the repository or download the script::
 git clone https://github.com/dhanyadiya/Papers.git
-cd Papers
+ cd Papers
 2. Install required dependencies:
 pip install -r requirements.txt
 
