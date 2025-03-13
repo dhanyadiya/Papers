@@ -54,5 +54,4 @@ python research_paper_fetcher.py "COVID-19 vaccine" --debug --file output.csv
 1. The script outputs a CSV file:
    
     Paper ID,Title,Publication Date,Authors,Pharma/Biotech Company,Author Emails
-    40071493,Boosting Non-Radiative Decay of Boron Difluoride Formazanate Dendrimers for NIR-II Photothermal Theranostics.,2025,Peng Chen,"Nanyang Technological University, School of Chemistry, Chemical         
-    Engineering and Biotechnology, SINGAPORE.","Nanyang Technological University, School of Chemistry, Chemical Engineering and Biotechnology, SINGAPORE."
+    40071493,Boosting Non-Radiative Decay of Boron Difluoride Formazanate Dendrimers for NIR-II Photothermal Theranostics.,2025,Peng Chen,"Nanyang Technological University, School of Chemistry, Chemical        Engineering and Biotechnology, SINGAPORE.","Nanyang Technological University, School of Chemistry, Chemical Engineering and Biotechnology, SINGAPORE."
