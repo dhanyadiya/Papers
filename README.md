@@ -33,9 +33,9 @@ pip install -r requirements.txt
 
 1. To fetch research papers from PubMed, run the script with a search query:  python cs.py "Mathematics"
 2. Optional Arguments:
-    a. -h: Display usage instructions.
-    b. --debug:Printdebug information during execution.
-    c. --file:Specifythe filename to save the results. 
+     1. -h: Display usage instructions.
+     2. --debug:Printdebug information during execution.
+     3. --file:Specifythe filename to save the results. 
 python research_paper_fetcher.py "COVID-19 vaccine" --debug --file output.csv
 
 
@@ -43,12 +43,12 @@ python research_paper_fetcher.py "COVID-19 vaccine" --debug --file output.csv
 
 1. PubMed API: Used to fetch research paper metadata.
 2. Python Libraries:
-    a. requests
-    b. xml.etree.ElementTree
-    c. argparse
+    1. requests
+    2. xml.etree.ElementTree
+    3. argparse
 3. LLM Tools:
-    a. Chatgpt
-    b. Gemini
+    1. Chatgpt
+    2. Gemini
 
 # Output:
 1. The script outputs a CSV file:
